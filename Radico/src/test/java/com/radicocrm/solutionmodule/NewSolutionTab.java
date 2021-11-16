@@ -1,5 +1,4 @@
 package com.radicocrm.solutionmodule;
-
 import org.testng.annotations.Test;
 
 import com.radicocrm.genericLib.BaseTest;
