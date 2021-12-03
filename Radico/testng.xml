@@ -1,0 +1,22 @@
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.radicocrm.forecastmodule.Forecasts"/>
+      <class name="com.radicocrm.leadmodule.LeadList"/>
+      <class name="com.radicocrm.casesmodule.CaseTab"/>
+      <class name="com.radicocrm.productmodule.ProductPage"/>
+      <class name="com.radicocrm.leadmodule.ChangeStatus"/>
+      <class name="com.radicocrm.forecastmodule.CreateNewForeCasts"/>
+      <class name="com.radicocrm.productmodule.NewProductTab"/>
+      <class name="com.radicocrm.solutionmodule.CreateNewSolution"/>
+      <class name="com.radicocrm.productmodule.CreateNewProduct"/>
+      <class name="com.radicocrm.leadmodule.WindowHandling"/>
+      <class name="com.radicocrm.solutionmodule.NewSolutionTab"/>
+      <class name="com.radico.products.CreateProductsTest"/>
+      <class name="com.radicocrm.leadmodule.LeadPageTab"/>
+      <class name="com.radicocrm.forecastmodule.NewForecastsTab"/>
+      <class name="com.radicocrm.forecastmodule.ForeCastEdit"/>
+      <class name="com.radicocrm.solutionmodule.SolutionPage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
